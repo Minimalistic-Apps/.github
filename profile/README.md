@@ -2,6 +2,6 @@
 `Minimalistic` | `Free` | `Open Source` | `Private` | `Bitcoin` | `No adds` | `No trackers`
 | `No Google`
 
-- 🙋‍♀️ Our mission is to create **Free Open-Source Privacy-Respecting Minimalistic** apps that makes everyday life easier.
-- `Ƀ` Bitcoin is first class citisen in our apps.
-- 👩‍💻 We have focus on just one problem, and we solve it complately. No noise, pure signal. Embrace the Minimalism.
+- 🙋‍♀️ Our mission is to create Free Open-Source Privacy-Respecting Minimalistic apps that makes everyday life easier.
+- Ƀitcoin is first class citizen in our apps.
+- 👩‍💻 We have focus on just one problem, and we solve it completely. No noise, pure signal. Embrace the Minimalism.
